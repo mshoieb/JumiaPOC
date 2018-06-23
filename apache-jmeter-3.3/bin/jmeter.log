@@ -1,0 +1,71 @@
+2018-01-24 09:50:36,935 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2018-01-24 09:50:37,007 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-01-24 09:50:37,034 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: Version 3.3 r1808647
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: java.version=1.8.0_144
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: os.name=Windows 10
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: os.arch=amd64
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: os.version=10.0
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: file.encoding=Cp1252
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: Max memory     =2147483648
+2018-01-24 09:50:37,067 INFO o.a.j.JMeter: Available Processors =4
+2018-01-24 09:50:37,082 INFO o.a.j.JMeter: Default Locale=English (United States)
+2018-01-24 09:50:37,082 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2018-01-24 09:50:37,082 INFO o.a.j.JMeter: JMeterHome=D:\1.Work\1. AAM\3.Performance\AAMperformanceJmeter\apache-jmeter-3.3
+2018-01-24 09:50:37,083 INFO o.a.j.JMeter: user.dir  =D:\1.Work\1. AAM\3.Performance\AAMperformanceJmeter\apache-jmeter-3.3\bin
+2018-01-24 09:50:37,083 INFO o.a.j.JMeter: PWD       =D:\1.Work\1. AAM\3.Performance\AAMperformanceJmeter\apache-jmeter-3.3\bin
+2018-01-24 09:50:37,084 INFO o.a.j.JMeter: IP: 172.25.60.81 Name: egy-kmohamed-NB2 FullName: egy-kmohamed-NB2.mshome.net
+2018-01-24 09:50:37,757 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform]
+2018-01-24 09:50:37,763 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-01-24 09:50:39,103 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-01-24 09:50:39,103 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-01-24 09:50:46,949 WARN o.a.j.g.ObjectTableModel: Header count=13 but classes count=11
+2018-01-24 09:50:46,950 WARN o.a.j.g.ObjectTableModel: Header count=13 but writeFunctor count=11
+2018-01-24 09:50:47,631 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2018-01-24 09:50:47,989 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2018-01-24 09:50:48,084 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2018-01-24 09:50:48,146 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-01-24 09:50:48,146 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-01-24 09:50:48,146 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-01-24 09:50:48,147 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-01-24 09:50:48,147 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-01-24 09:50:48,147 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-01-24 09:50:48,512 INFO o.a.j.e.KeyToolUtils: Exception checking for keytool existence, will return false, try another way.
+2018-01-24 09:50:48,914 INFO o.a.j.e.KeyToolUtils: keytool found at 'C:\Program Files\Java\jre1.8.0_144\bin\keytool'
+2018-01-24 09:50:48,916 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\1.Work\1. AAM\3.Performance\AAMperformanceJmeter\apache-jmeter-3.3\bin\proxyserver.jks
+2018-01-24 09:50:49,218 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2018-01-24 09:50:49,313 INFO o.a.j.s.FileServer: Default base='D:\1.Work\1. AAM\3.Performance\AAMperformanceJmeter\apache-jmeter-3.3\bin'
+2018-01-24 09:50:49,505 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, jpgc-sense=3.4, jpgc-cmd=2.1, jpgc-graphs-composite=2.0, jpgc-csl=0.1, jpgc-functions=2.0, jpgc-casutg=2.5, jpgc-dbmon=0.1, jpgc-graphs-dist=2.0, jpgc-dummy=0.2, jpgc-filterresults=2.1, jpgc-ffw=2.0, jpgc-ggl=2.0, jpgc-httpraw=0.1, jpgc-sts=2.2, jpgc-fifo=0.2, jpgc-jmxmon=0.2, jpgc-graphs-vs=2.0, jpgc-lockfile=0.1, jpgc-mergeresults=2.1, jpgc-pde=0.1, jpgc-prmctl=0.3, jpgc-perfmon=2.1, jpgc-plugins-manager=0.18, bzm-random-csv=0.5, jpgc-webdriver=2.3, jpgc-synthesis=2.1, jpgc-tst=2.1, jpgc-udp=0.3, jpgc-csvars=0.1, jpgc-xml=0.1, jmeter-core=3.3, jmeter-ftp=3.3, jmeter-http=3.3, jmeter-jdbc=3.3, jmeter-jms=3.3, jmeter-junit=3.3, jmeter-java=3.3, jmeter-ldap=3.3, jmeter-mail=3.3, jmeter-mongodb=3.3, jmeter-native=3.3, jmeter-tcp=3.3, jmeter-components=3.3, jpgc-standard=2.0]
+2018-01-24 09:50:49,516 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2018-01-24 09:50:49,551 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2018-01-24 09:50:49,551 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2018-01-24 09:50:50,074 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2018-01-24 09:50:50,107 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2018-01-24 09:50:50,424 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-01-24 09:50:50,424 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-01-24 09:50:50,424 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-01-24 09:50:50,424 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-01-24 09:52:19,762 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-01-24 09:52:19,797 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-01-24 09:52:19,799 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2018-01-24 09:52:19,802 WARN o.a.j.s.CSVSaveService: Unknown column name timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018-01-24 09:52:19,834 WARN o.a.j.s.CSVSaveService: Default delimiter '	' did not work; using alternate ',' for reading C:\Users\kmohamed\Desktop\TestScenario1.jtl
+2018-01-24 09:52:19,835 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-01-24 10:08:49,052 WARN o.a.j.s.CSVSaveService: Unknown column name timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018-01-24 10:08:49,052 WARN o.a.j.s.CSVSaveService: Default delimiter '	' did not work; using alternate ',' for reading C:\Users\kmohamed\Desktop\TestScenario2.jtl
+2018-01-24 10:08:57,030 WARN o.a.j.s.CSVSaveService: Unknown column name timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018-01-24 10:08:57,030 WARN o.a.j.s.CSVSaveService: Default delimiter '	' did not work; using alternate ',' for reading C:\Users\kmohamed\Desktop\TestScenario2.jtl
+2018-01-24 10:28:01,642 WARN o.a.j.s.CSVSaveService: Unknown column name timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018-01-24 10:28:01,643 WARN o.a.j.s.CSVSaveService: Default delimiter '	' did not work; using alternate ',' for reading C:\Users\kmohamed\Desktop\TestScenario3.jtl
+2018-01-24 10:45:41,772 WARN o.a.j.s.CSVSaveService: Unknown column name timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018-01-24 10:45:41,773 WARN o.a.j.s.CSVSaveService: Default delimiter '	' did not work; using alternate ',' for reading C:\Users\kmohamed\Desktop\TestScenario4.jtl
+2018-01-24 11:59:49,781 WARN o.a.j.s.CSVSaveService: Unknown column name timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018-01-24 11:59:49,782 WARN o.a.j.s.CSVSaveService: Default delimiter '	' did not work; using alternate ',' for reading C:\Users\kmohamed\Desktop\TestScenario5.jtl
+2018-01-24 14:01:06,755 WARN o.a.j.s.CSVSaveService: Unknown column name timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018-01-24 14:01:06,759 WARN o.a.j.s.CSVSaveService: Default delimiter '	' did not work; using alternate ',' for reading C:\Users\kmohamed\Desktop\TestScenario6.jtl
+2018-01-24 14:19:38,535 WARN o.a.j.s.CSVSaveService: Unknown column name timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018-01-24 14:19:38,537 WARN o.a.j.s.CSVSaveService: Default delimiter '	' did not work; using alternate ',' for reading C:\Users\kmohamed\Desktop\TestScenario5.jtl
+2018-01-24 15:13:42,679 WARN o.a.j.s.CSVSaveService: Unknown column name timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018-01-24 15:13:42,682 WARN o.a.j.s.CSVSaveService: Default delimiter '	' did not work; using alternate ',' for reading C:\Users\kmohamed\Desktop\TestScenario7.jtl
